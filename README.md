@@ -1,1 +1,1 @@
-# intern_prep
+Day1-practiced python basics
